@@ -10,13 +10,8 @@
   </label>
 
   <label>
-    <span>Your favorite same</span>
+    <span>Your favorite game</span>
     <input type="text" name="game" placeholder="Example: Board game" required>
-  </label>
-
-  <label>
-    <span>Your seemail</span>
-    <input type="email" name="email" placeholder="your@email.com" required>
   </label>
 
   <label>

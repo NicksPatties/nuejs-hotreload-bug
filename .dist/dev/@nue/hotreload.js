@@ -45,7 +45,7 @@ sse.onmessage = async function(e) {
       dispatchEvent(new Event("reload"));
     }
   }
-  if (data.is_nue || data.is_htm)
+  if (data.is_dhtml || data.is_htm)
     remount("/" + data.path.replace(data.ext, ".js"));
   if (css) {
     const href = `/${dir}${dir ? "/" : ""}${data.name}.css`;

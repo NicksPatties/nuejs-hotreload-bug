@@ -10,12 +10,12 @@
   </label>
 
   <label>
-    <span>Your favorite same</span>
+    <span>Your favorite name</span>
     <input type="text" name="game" placeholder="Example: Board game" required>
   </label>
 
   <label>
-    <span>Your seemail</span>
+    <span>Your email</span>
     <input type="email" name="email" placeholder="your@email.com" required>
   </label>
 
